@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Logo" size="0.100000 0.093466" />
+    <ImageTarget name="Camiseta10" size="5.000000 7.064018" />
+    <ImageTarget name="Camiseta9" size="10.000000 14.148149" />
+    <ImageTarget name="Camiseta3" size="0.100000 0.141296" />
+    <ImageTarget name="Camiseta4" size="0.100000 0.100000" />
+    <ImageTarget name="Camiseta8" size="1.000000 1.028939" />
+    <ImageTarget name="Camiseta7" size="1.000000 1.000000" />
+    <ImageTarget name="Camiseta6" size="1.000000 1.000000" />
+    <ImageTarget name="Camiseta5" size="1.000000 1.000000" />
+    <ImageTarget name="Camiseta2" size="0.430000 0.421669" />
+    <ImageTarget name="Camiseta1" size="0.300000 0.424028" />
+  </Tracking>
+</QCARConfig>
