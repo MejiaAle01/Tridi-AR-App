@@ -4,14 +4,6 @@ A application created using with Unity, Vuforia and Android
 
 Este proyecto consiste en una aplicación de Realidad Aumentada para objetos en 3D sobre camisetas personalizadas.
 
-| Tabla de Contenidos |
-| -----------|
-| [Caracteristicas](#Features) |
-| [Instalación](#Installation) |
-| [Demo](#Demo) |
-| [Stack utilizado](#Tech) |
-| [Lecciones aprendidas](#Lessons) |
-
 ## Características
 
 - Visualización de objetos en Realidad Aumentada.
@@ -37,7 +29,9 @@ Este proyecto consiste en una aplicación de Realidad Aumentada para objetos en 
 
 **Version de Smartphone (Android Version)**
 - Exporta el proyecto de Unity.
-- Crea un nuevo proyecto de Android en Android Studio.## Demo
+- Crea un nuevo proyecto de Android en Android Studio.
+
+## Demo
 
 Puedes probar una demo de la aplicación desde este enlace: 👉 [TridiSV](https://t-shirtsv.netlify.app/).
 
@@ -47,6 +41,7 @@ Puedes probar una demo de la aplicación desde este enlace: 👉 [TridiSV](https
 | ----------- | ----------- |
 | Página Web | **HTML, CSS, Bulma CSS, Javascript, AOS Library, Animate CSS Library**. |
 | Aplicación | **Android, Unity Engine, Vuforia Engine**. |
+
 ## Lecciones aprendidas
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
